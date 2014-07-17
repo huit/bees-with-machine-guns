@@ -30,11 +30,6 @@
             "Type": "Number",
             "Default": "200000"
         },
-        "SpotPrice": {
-            "Description": "Spot price for application AutoScaling Group",
-            "Type": "Number",
-            "MinValue" : "0"
-        },
         "ConcurrentConnections": {
             "Description": "Number of concurrent requests per load tester",
             "Type": "Number",
